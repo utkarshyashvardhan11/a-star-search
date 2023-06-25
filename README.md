@@ -1,2 +1,2 @@
 # A-star Search
-MATLAB implementation for A star search algorithm
+MATLAB implementation for A* Search algorithm
